@@ -1,0 +1,33 @@
+{
+  "version": "2026-10-16-01",
+  "algorithm": "AES-GCM",
+  "compression": "gzip",
+  "kdf": {
+    "name": "PBKDF2",
+    "hash": "SHA-256",
+    "iterations": 310000
+  },
+  "data": {
+    "url": "case-data.enc",
+    "iv": "y1pF1q++I7c+oM8F",
+    "tag": "S/GLjlnDW3pZezpwYYjyAg=="
+  },
+  "access": [
+    {
+      "role": "admin",
+      "expiresAt": null,
+      "salt": "LLYvv2/UYnznAVuNe/6d0g==",
+      "iv": "/noonEwju5RLTycv",
+      "tag": "ohqva0ChTTaSRBQL9J221A==",
+      "wrappedKey": "eL9Ad8NaPQMZiZQrqvF9esnExv+0Ea10b5yvfFhbrxs="
+    },
+    {
+      "role": "employee",
+      "expiresAt": "2026-10-23T23:59:59+08:00",
+      "salt": "1S4l/chj4TWqixwJz+t5kg==",
+      "iv": "udkfzJqDT6JFS5wz",
+      "tag": "BRmLO9jfPpeu+lNOvm0dIQ==",
+      "wrappedKey": "kuyL602ZV646aPtaWPQTBFkAnCCuzygw5J/nsVPDvJE="
+    }
+  ]
+}
