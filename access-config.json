@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-16-01",
+  "version": "2026-10-21-02",
   "algorithm": "AES-GCM",
   "compression": "gzip",
   "kdf": {
@@ -9,25 +9,25 @@
   },
   "data": {
     "url": "case-data.enc",
-    "iv": "y1pF1q++I7c+oM8F",
-    "tag": "S/GLjlnDW3pZezpwYYjyAg=="
+    "iv": "cyFVS/ua/9kfRC0y",
+    "tag": "hSo3o+AGu0YauYf0AmYQGw=="
   },
   "access": [
     {
       "role": "admin",
       "expiresAt": null,
-      "salt": "LLYvv2/UYnznAVuNe/6d0g==",
-      "iv": "/noonEwju5RLTycv",
-      "tag": "ohqva0ChTTaSRBQL9J221A==",
-      "wrappedKey": "eL9Ad8NaPQMZiZQrqvF9esnExv+0Ea10b5yvfFhbrxs="
+      "salt": "L8ZkTAq1Yd0dKBPMj/KtoA==",
+      "iv": "ioquzj5Vk/rcpz4e",
+      "tag": "C7qO2KFR3rDMmlTK/Jv+zQ==",
+      "wrappedKey": "AX1Rgh7ByU6Gr5OKyto4iOBeXAuo3QUOOlfDB5ZzrUA="
     },
     {
       "role": "employee",
-      "expiresAt": "2026-10-23T23:59:59+08:00",
-      "salt": "1S4l/chj4TWqixwJz+t5kg==",
-      "iv": "udkfzJqDT6JFS5wz",
-      "tag": "BRmLO9jfPpeu+lNOvm0dIQ==",
-      "wrappedKey": "kuyL602ZV646aPtaWPQTBFkAnCCuzygw5J/nsVPDvJE="
+      "expiresAt": "2026-10-27T23:59:59+08:00",
+      "salt": "CUvAA9yPuqn4jz51rWQA1w==",
+      "iv": "/bgj8ALcAX1+F6Jg",
+      "tag": "71gN6jVTKJvdE1f8ne1aUw==",
+      "wrappedKey": "Awjwnn6osDM0+k9PZa9s1D0QP5rwDulojC6EU1xtimE="
     }
   ]
 }
