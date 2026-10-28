@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-21-02",
+  "version": "2026-10-28-01",
   "algorithm": "AES-GCM",
   "compression": "gzip",
   "kdf": {
@@ -23,11 +23,16 @@
     },
     {
       "role": "employee",
-      "expiresAt": "2026-10-27T23:59:59+08:00",
-      "salt": "CUvAA9yPuqn4jz51rWQA1w==",
-      "iv": "/bgj8ALcAX1+F6Jg",
-      "tag": "71gN6jVTKJvdE1f8ne1aUw==",
-      "wrappedKey": "Awjwnn6osDM0+k9PZa9s1D0QP5rwDulojC6EU1xtimE="
+      "expiresAt": "2026-11-03T23:59:59+08:00",
+      "salt": "5d9ogWb/bTVnRohwGXYX7g==",
+      "iv": "nX78Pj2Xs98ILseI",
+      "tag": "nbxEli7ZbzJy9UoFdYRW9A==",
+      "wrappedKey": "zZx1UEGN484/ai6plvsiQGpSs9t+SZ5Lx+VaxsexR94=",
+      "data": {
+        "url": "case-data-employee.enc",
+        "iv": "Q8gG5bOPuQnB/2GY",
+        "tag": "azHxFtt81ypSQUljEwV+Wg=="
+      }
     }
   ]
 }
