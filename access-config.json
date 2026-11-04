@@ -9,30 +9,25 @@
   },
   "data": {
     "url": "case-data.enc",
-    "iv": "cyFVS/ua/9kfRC0y",
-    "tag": "hSo3o+AGu0YauYf0AmYQGw=="
+    "iv": "nLynCvqMQe2WdtBa",
+    "tag": "uMjq8wv640UwbS7/2fr9Ww=="
   },
   "access": [
     {
       "role": "admin",
       "expiresAt": null,
-      "salt": "L8ZkTAq1Yd0dKBPMj/KtoA==",
-      "iv": "ioquzj5Vk/rcpz4e",
-      "tag": "C7qO2KFR3rDMmlTK/Jv+zQ==",
-      "wrappedKey": "AX1Rgh7ByU6Gr5OKyto4iOBeXAuo3QUOOlfDB5ZzrUA="
+      "salt": "q37MGC4wtGFD5B9gYfWkyw==",
+      "iv": "LYxaVjHUsKC6gJua",
+      "tag": "o/lwm6nYh33sNfth9cEiMg==",
+      "wrappedKey": "pYnEtWJ8olKS4aHte3hC+XZB7bmt91v8mKw/G8F93VM="
     },
     {
       "role": "employee",
       "expiresAt": "2026-11-10T23:59:59+08:00",
-      "salt": "cnH2IhALCYSaLPHV48iYdg==",
-      "iv": "M6nTVIjpcuQ/U4Sw",
-      "tag": "dAhRhgiDaIAZmH09WqHZRw==",
-      "wrappedKey": "Cd2pWhGnHIpHW519wMCGTUC61uHTYcV3a78gkgxYW88=",
-      "data": {
-        "url": "case-data-employee.enc",
-        "iv": "DjRG1gmlMnEzZ7dG",
-        "tag": "3XA+gjJqyGUrAmD2H8ZnkA=="
-      }
+      "salt": "QOWj3hBV6CGKyGbR2FcneQ==",
+      "iv": "k3n//rGfWjMQVeyH",
+      "tag": "x6IPeCteaQZZpTVQkSzayQ==",
+      "wrappedKey": "OynLPVPV/i4Bzgim4+XYLym5HBtsjFYc54qm4UguYng="
     }
   ]
 }
